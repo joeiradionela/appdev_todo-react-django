@@ -1,6 +1,6 @@
 {
   "name": "todo-app",
-
+  "homepage": "https://github.com/joeiradionela/appdev_todo-react-django.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
